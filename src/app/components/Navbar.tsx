@@ -1,7 +1,7 @@
 const  Navbar = () =>{
     return(
         <div>
-            <div className=" bg-red-950 grid grid-cols-12  grid-rows-3 h-36 gap-2 m-2 " > 
+            <div className=" bg-red-950 grid grid-cols-12  grid-rows-3 h-36 gap-2 m-2 text-white" > 
                 <div></div>
                 <div className="col-span-8">Download App Via SMS
                     <hr/>
