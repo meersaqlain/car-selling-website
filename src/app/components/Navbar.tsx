@@ -1,4 +1,4 @@
-export default function(){
+const  Navbar = () =>{
     return(
         <div>
             <div className=" bg-red-950 grid grid-cols-12  grid-rows-3 h-36 gap-2 m-2 " > 
@@ -29,3 +29,4 @@ export default function(){
         
     )
 }
+export default Navbar;
