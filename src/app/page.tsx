@@ -29,8 +29,8 @@ export default function Home() {
         </div>
       </div>
       </div>
-      <h1 className="bg-black font-bold gap-5 m-5">Featured New Cars</h1>
-      <div className="bg-black flex gap-5 m-5">
+      <h1 className="bg-black font-bold gap-5 m-5 text-white">Featured New Cars</h1>
+      <div className="bg-black flex gap-5 m-5 text-white">
       <p>Popular</p> <p>Upcoming </p> <p>Newly Launched</p>
       </div>
 

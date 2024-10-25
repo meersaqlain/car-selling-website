@@ -13,7 +13,7 @@ export default function car2(){
                <div></div>
             <Image className=""  src={img4} alt=" Suzuki Alto" title="Suzuki Alto"/>
             </div>
-            <div className="flex justify-center m-2 gap-4">
+            <div className="flex justify-center m-2 gap-4 text-white">
                 <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Book a test drive</button>
                 <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Request Band Finance</button>
                 <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Visit Place</button>
