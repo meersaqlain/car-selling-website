@@ -1,13 +1,14 @@
+import Link from "next/link"
 
 export default function thank(){
     return(
-        <body className="bg-white">
+        <div className="bg-white grid grid-row; grid-col;">
             
       <div className=" text-center font-bold text-6xl text-blue-800 italic m-80" >
        
          Thank you for shopping !!!  
       </div>
       <p className="text-center m-10 text-black">Your order will be delivered in 3 Business days</p>
-      </body>
+      </div>
     )
 }

@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const Footer = () => {
     return (
-        <footer className="bg-gray-800 text-white py-4">
+        <footer className="bg-red-950 text-white py-4">
             <div className=" text-center">
                 <p>Copyright &copy; 2024  Designed By Meer Saqlain. All rights reserved.</p>
                 <nav className="mt-2">

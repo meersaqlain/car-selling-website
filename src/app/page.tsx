@@ -9,9 +9,7 @@ import img1 from "../app/img1.jpg"
 export default function Home() {
   return (
     <div>
-    <div>
-     <Navbar/>
-      </div>
+    
       <div className="grid grid-cols-2 bg-white border border-red-950 h-80 ">
       <div className=" grid justify-center text-blue-800 m-6"><h3 className="text-2xl font-bold ">Post your Ad on PakWheels</h3>
         <div className="text- row-span-12 text-gray-700"><p>Post your Ad in 3 easy Steps</p>
@@ -75,9 +73,7 @@ export default function Home() {
       </Link>
      </div> 
      
-    <div>
-      <Footer/>
-    </div>
+    
   </div> 
        
   )

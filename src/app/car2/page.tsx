@@ -14,10 +14,10 @@ export default function car2(){
             <Image className=""  src={img2} alt=" Honda Civic" title="Honda Civic"/>
             </div>
             <div className="flex justify-center m-2 gap-4">
-                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Book a test drive</button>
-                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Request Band Finance</button>
-                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Visit Place</button>
-                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white">Car Inspection</button>
+                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white text-white">Book a test drive</button>
+                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white text-white">Request Band Finance</button>
+                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white text-white">Visit Place</button>
+                <button className="bg-blue-700 py-3 px-6 rounded-lg border border-white text-white">Car Inspection</button>
             </div>
             <h1 className="flex justify-center text-2xl font-semibold m-10 text-white">Vehicle Description</h1>
             <div className="flex justify-center m-10 text-white">
@@ -30,7 +30,7 @@ export default function car2(){
            
             <div className="flex justify-center">
             
-            <Link href="/car_details"><button className="flex m-10 bg-blue-700 py-5 px-10 rounded-lg border border-white justify-center">Make Payment</button></Link>
+            <Link href="/car_details"><button className="flex m-10 bg-blue-700 py-5 px-10 rounded-lg border border-white justify-center text-white">Make Payment</button></Link>
             </div>
         </div>
     )
