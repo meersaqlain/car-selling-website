@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer/Footer";
 import Image from "next/image";
 import img4 from "../app/img4.png"
 import img3 from "../app/img3.jpg"
