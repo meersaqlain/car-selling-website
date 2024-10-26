@@ -21,7 +21,7 @@ const  Navbar = () =>{
                 <div>Blogs</div>
                 <div>More</div>
                 <div></div>
-                <div>Post an Ad</div>
+                <button className="bg-blue-700 py-5 px-5 rounded-lg  "><div>Post an Ad</div></button>
             </div>
             <div className="text-white text-center bg-black">Sell Your Car On PakWheels and Get the Best Price</div>
             
